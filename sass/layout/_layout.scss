@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+    color: black;
+    
+}
+.imagenApp1 {
+    width: 100%;
+}
+
+.imagenApp {
+    width: 25%;
+}
+.imagenTienda {
+    width: 20%;
+    justify-content: center;
+}
+body {
+    background-color: #f1ece8;
+}
+.docente {
+        width: 100%;
+}
+.cargo {
+    text-align: right;
+}
+.testimonios {
+    padding-top: 30px;
+}
+.container {
+    margin-top: 50px;
+}
+.testimonios {
+    font-style: italic;
+    font-size: small;
+    padding-top: 10%;
+}
+.cargo {
+    font-size: small;
+    font-weight:  50px;
+}
+.slogan {
+    font-weight: bold;
+    font-size: small;
+}
+.tituloFooter {
+    font-weight: bold;
+}
+.descripción1 {
+    color: black;
+    font-weight: bold;
+}
+.descripción2 {
+    font-weight: bold;
+    }
+.tituloDescripcion1 {
+    font-weight: bold;
+    color: black;
+}
+.tituloDescripcion {
+    font-weight:bold
+
+}
+.video {
+    width: 100%;
+}
+.form-link {
+    font-style: italic;
+    font-weight: bolder;
+}
